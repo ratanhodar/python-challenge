@@ -10,7 +10,7 @@ PercentVote = []
 
 x = 0
 
-csvpath = os.path.join('election_data1.csv')
+csvpath = os.path.join('election_data.csv')
 
 with open(csvpath) as csvfile:
 
